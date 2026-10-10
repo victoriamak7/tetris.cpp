@@ -1,13 +1,7 @@
-# tetris-cpp- with the help of Programming with Nick
+Tetris C++ (raylib)
 
-#step1
-Game Loop:
-1. Event handling
-2. Updating positions
-3. Drawing objects
+An object-oriented Tetris clone implemented in C++ and raylib featuring a modular grid system, piece rotation states, and custom rendering.
 
-# step2
-Grid- 2D array, each color has its own numerical value from 1 to 7 (zero for an empty one)
+Prerequisites: raylib
 
-
-# tetris.cpp
+Build: make && ./main
